@@ -6,26 +6,25 @@ function clearForm() {
     inputNota.value = "";
 }
 
+
 // Criando uma função
 button.addEventListener("click", function(event) {
     event.preventDefault();
     const inputNotaValue = inputNota.value;
-    // console.log(inputNotaValue);
-
 
     // Validação de formulário
     if (inputNotaValue === "") {
-        alert("Preencha o campo nota!");
+        alert(`Preencha o campo obrigátorio.`)  ;
         return false;
     }
 
     // Lógica
     if(inputNotaValue >= 6) {
-        alert("Você está aprovado");
+       alert(`A sua nota é ${inputNotaValue}, você está aprovado!`)
     } else {
-        alert("Você está reprovado");
+        alert(`A sua nota é ${inputNotaValue}, você está reprovado!`)
     }
 
     // Chamando a função clearForm() para limpar o campo.
-    clearForm()
+    clearForm();
 });

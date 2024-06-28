@@ -19,3 +19,7 @@ O curso de Desenvolvimento em JavaScript é aplicado pelo [Professor Giovanni Ri
 - Demonstrar capacidade de organização
 - Demonstrar atenção a detalhes
 - Demonstrar raciocínio lógico
+
+## Organização de pastas
+
+No GitHub, o conteúdo está organizado conforme os dias de aula. Cada pasta contém todo o material desenvolvido no respectivo dia, facilitando o acesso e a gestão dos recursos do curso
