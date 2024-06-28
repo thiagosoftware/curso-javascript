@@ -7,3 +7,6 @@ Execício 3
 */
 const winterMessage =  "o inverno está chegando";
 console.log(winterMessage.toLocaleUpperCase());
+
+
+
