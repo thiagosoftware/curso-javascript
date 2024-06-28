@@ -24,6 +24,6 @@ O curso de Desenvolvimento em JavaScript é aplicado pelo [Professor Giovanni Ri
 
 No GitHub, o conteúdo está organizado conforme os dias de aula. Cada pasta contém todo o material desenvolvido no respectivo dia, facilitando o acesso e a gestão dos recursos do curso
 
-## Certificado emitdo pelo Serviço Nacional de Aprendizagem Industrial 🏅
+## Certificado emitido pelo Serviço Nacional de Aprendizagem Industrial 🏅
 
 Em breve disponível aqui.
