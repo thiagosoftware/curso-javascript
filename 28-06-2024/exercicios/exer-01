@@ -1,0 +1,10 @@
+/*
+Escreva um loop que inicie em 1 e termine em 10. Para cada interação, 
+exiba no console a frase 'Esta é a Xª vez que esta frase é exibida no console.', 
+onde X é o número da interação (por exemplo, 1ª, 2ª, 3ª...).
+*/
+
+
+for (let i = 1; i <= 10; i++) {
+    console.log(`Está é a ${i}ª vez que está frase é exibida no console.`);
+}
