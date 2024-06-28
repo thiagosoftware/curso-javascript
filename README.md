@@ -1,8 +1,8 @@
-# Formação Desenvolvimento em JavaScript
+# Formação Desenvolvimento em JavaScript 🖥️
 
 O curso de Desenvolvimento em JavaScript é aplicado pelo [Professor Giovanni Ribeiro](https://github.com/giovannirp?tab=repositories) no SENAI de Cotia e tem por objetivo o desenvolvimento de competências relativas à programação em JavaScript voltada para o lado do cliente, criação de páginas web interativas, animações, jogos e aplicativos web.
 
-## Ementa
+## Ementa 📚
 
 - Desenvolver visão sistêmica de compartilhamento e evolução dos códigos
 - Utilizar ferramentas de versionamento em projetos de TI
@@ -20,6 +20,10 @@ O curso de Desenvolvimento em JavaScript é aplicado pelo [Professor Giovanni Ri
 - Demonstrar atenção a detalhes
 - Demonstrar raciocínio lógico
 
-## Organização de pastas
+## Organização de pastas 🗂️
 
 No GitHub, o conteúdo está organizado conforme os dias de aula. Cada pasta contém todo o material desenvolvido no respectivo dia, facilitando o acesso e a gestão dos recursos do curso
+
+## Certificado emitdo pelo Serviço Nacional de Aprendizagem Industrial 🏅
+
+Em breve disponível aqui.
