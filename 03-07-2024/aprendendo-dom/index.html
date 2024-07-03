@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Aprendendo DOM</title>
+  </head>
+  <body>
+    <h1 id="titulo">Seja bem-vindo!</h1>
+    <h2 id="subtitulo">Preencha todos os campos.</h2>
+
+    <form>
+      <label for="name" >Nome</label>
+      <input type="text" id="idNome" required/>
+      <label for="city">Cidade</label>
+      <input type="text" id="idCity" required>
+      <hr>
+      <button onclick="mudar(event)">Clique aqui</button>
+    </form>
+
+    <script src="script.js"></script>
+  </body>
+</html>
