@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css">
+    <title>Calc</title>
+  </head>
+  <body>
+
+    <div id="container">
+      <h1 id="title">Calculadora</h1>
+
+      <div>
+        <label for="valor1"></label>
+        <input placeholder="Digite um valor..." type="number" id="valor1" />
+      </div>
+
+      <div>
+        <label for="valor2"></label>
+        <input placeholder="Digite outro valor..." type="number" id="valor2" />
+      </div>
+
+      <div>
+      <button id="btnSomar">Somar</button>
+      <button id="btnSubtrair">Subtrair</button>
+      </div>
+      <div>
+      <button id="btnMultiplicar">Multiplicar</button>
+      <button id="btnDividir">Dividir</button>
+      </div>
+
+      <h2>Resultado: <span id="resultado">0</span></h2>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
